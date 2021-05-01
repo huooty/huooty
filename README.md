@@ -144,3 +144,21 @@
 * [@toulanboy](https://github.com/toulanboy/scripts)
 
 * [@lowking](https://github.com/lowking/Scripts)
+
+
+**1⃣️配置文件根据 ErdongChan (重点👉)  `百嫖的 Quantumult X TF` 版本制作，适配商店 v1.0.19-build501 版本**
+其它版本未做测试
+
+——————————
+
+**2⃣️提供免费节点订阅，方便用户体验**
+
+导入配置后，为获得更好使用体验，请务必导入个人节点或订阅
+
+——————————
+
+**3⃣️所有策略图标采用 Erdongchan 图标组**
+
+图标库地址：https://github.com/erdongchanyo/icon
+
+策略组图标设置透明背景方法：
