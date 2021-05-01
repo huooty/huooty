@@ -1,12 +1,3 @@
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=w37fhy&show_icons=true&theme=merko)
-
-
-* [Surge视频教程第一期](https://youtu.be/V-p0PIC4un4)
-* [Surge视频教程第二期](https://youtu.be/UibWGDrHgQ8)
-
-* [分流策略科普-上集](https://youtu.be/3htp08CVkCE)
-* [分流策略科普-下集](https://youtu.be/fd6gRfxwrF4)
-
 ### Quantumult X懒人配置：（2021.02.27更新）
 * Quantumult X最新商店版支持gallery订阅及Url测速：
 * [QuantumultX_diy.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)
